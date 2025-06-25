@@ -10,7 +10,7 @@ Whether you're a first-time user or a longtime customer of PC Matic, it's inevit
 
 This guide is a detailed look at how PC Matic’s customer support system works—from reaching out for help to understanding what to expect and how to get the best results when you do. It's written to help you feel more confident navigating your PC Matic experience, no matter what level of technical expertise you bring to the table.
 
-.. image:: https://how-to-contact-malwarebytes-customer-service.readthedocs.io/en/latest/_images/click-service.png
+.. image:: click-service.png
    :alt: malwarebytes customer service
    :width: 400px
    :align: center
