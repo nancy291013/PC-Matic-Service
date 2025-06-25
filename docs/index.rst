@@ -2,19 +2,16 @@
 How to Contact PC Matic Customer Service?
 ============================
   
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 Whether you're a first-time user or a longtime customer of PC Matic, it's inevitable that questions or issues might arise from time to time. Maybe your scan isn’t running as expected, or you're unsure how to activate your license on a second device. In these moments, knowing how to get timely, knowledgeable help matters. That’s where **PC Matic customer service** steps in.
-
-This guide is a detailed look at how PC Matic’s customer support system works—from reaching out for help to understanding what to expect and how to get the best results when you do. It's written to help you feel more confident navigating your PC Matic experience, no matter what level of technical expertise you bring to the table.
 
 .. image:: click-service.png
    :alt: malwarebytes customer service
    :width: 400px
    :align: center
    :target: https://accuratelivechat.com
+This guide is a detailed look at how PC Matic’s customer support system works—from reaching out for help to understanding what to expect and how to get the best results when you do. It's written to help you feel more confident navigating your PC Matic experience, no matter what level of technical expertise you bring to the table.
+
 ----------------------------
 Why Customer Service Matters in Cybersecurity
 ----------------------------
